@@ -42,3 +42,11 @@ To get started with the API, follow these steps:
 - **POST /api/v1/patient**: Create a new patient
 - **GET /api/v1/:hospitalId**: Fetch all the psychiatrists, their count along with IDs and patient details for a hospital.
 
+## Contribution
+
+If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. We welcome contributions from the community!
+
+Happy coding!
+
+
+This introduction provides an overview of the technologies used, outlines the key features, and offers a guide for getting started with the API. It also includes a brief description of the available API endpoints and encourages contributions from the community. Adjust the content as needed for your specific project.
