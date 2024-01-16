@@ -19,7 +19,7 @@ To get started with the API, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Sachin-251/psychiatrists_api.git
-   cd your-repository
+   cd psychiatrists_api
    ```
 
 2. **Install Dependencies**
