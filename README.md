@@ -1,4 +1,4 @@
-# Sample RESTful API with Node.js, Express.js, and MySQL
+# Sample RESTful API for Psychiatrists and Patients Records build with Node.js, Express.js, and MySQL
 
 Welcome to our RESTful API built with Node.js, Express.js, and MySQL! This project serves as a template and guide for creating a robust and scalable API for your applications. The stack chosen provides a powerful combination of a server-side JavaScript runtime, a fast and minimalist web framework, and a reliable relational database for seamless data storage and retrieval.
 
