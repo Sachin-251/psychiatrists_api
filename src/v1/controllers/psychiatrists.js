@@ -18,7 +18,7 @@ const createNewPatient = tryCatchWrapper(async function (req, res, next){
         console.log("invalid email");
         return next(createCustomError("Invalid Email", 400));
     }
-    if((password.length < 2 && password.length > 15) || !validatePassword(password)){
+    if((password.length < 2 && password.length > 20) || !validatePassword(password)){
         return next(createCustomError("Invalid Password! Password should have atleat 1 upper case, 1 lower case, and one numeric character.", 400));
     }
     const salt = await bcrypt.genSalt(10);
@@ -76,7 +76,7 @@ const validateEmail = (email) => {
 }
 
 const validatePassword = (password) => {
-    const regularExp = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[a-zA-Z\d]{8,15}$/;
+    const regularExp = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[a-zA-Z\d]{8,20}$/;
     if(!regularExp.test(password)){
         return false;
     }else{

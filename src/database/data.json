@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Vikram Kapoor",
+        "address": "456 Skyline Rd, Cityville",
+        "email": "vikram.kapoor@example.com",
+        "phone": "+911234567890",
+        "password": "SecurePassword1",
+        "image": "patient1.jpg",
+        "psychiatrist_id": 11,
+        "psychiatrist_name": "Dr. Anjali Sharma"
+    },
+    {
+        "name": "Nisha Verma",
+        "address": "789 Meadow Ln, Townburg",
+        "email": "nisha.verma@example.com",
+        "phone": "+919876543210",
+        "password": "StrongPassword2",
+        "image": "patient2.jpg",
+        "psychiatrist_id": 12,
+        "psychiatrist_name": "Dr. Rajat Kumar"
+    },
+    {
+        "name": "Rahul Sharma",
+        "address": "101 Sunrise Blvd, Villagetown",
+        "email": "rahul.sharma@example.com",
+        "phone": "+915551234567",
+        "password": "MyPassword3",
+        "image": "patient3.jpg",
+        "psychiatrist_id": 13,
+        "psychiatrist_name": "Dr. Neha Patel"
+    },
+    {
+        "name": "Shreya Yadav",
+        "address": "202 Sunset Dr, Hamletville",
+        "email": "shreya.yadav@example.com",
+        "phone": "+911112223333",
+        "password": "SecurePassword4",
+        "image": "patient4.jpg",
+        "psychiatrist_id": 14,
+        "psychiatrist_name": "Dr. Anand Singh"
+    },
+    {
+        "name": "Raj Malhotra",
+        "address": "303 Forest Ln, Countryside",
+        "email": "raj.malhotra@example.com",
+        "phone": "+94445556666",
+        "password": "StrongPassword5",
+        "image": "patient5.jpg",
+        "psychiatrist_id": 15,
+        "psychiatrist_name": "Dr. Sneha Desai"
+    },
+    {
+        "name": "Ananya Patel",
+        "address": "404 River Rd, Suburbia",
+        "email": "ananya.patel@example.com",
+        "phone": "+97778889999",
+        "password": "MyPassword6",
+        "image": "patient6.jpg",
+        "psychiatrist_id": 16,
+        "psychiatrist_name": "Dr. Amit Sharma"
+    },
+    {
+        "name": "Vivek Kumar",
+        "address": "505 Mountain Ave, Citytown",
+        "email": "vivek.kumar@example.com",
+        "phone": "+9990001111",
+        "password": "SecurePassword7",
+        "image": "patient7.jpg",
+        "psychiatrist_id": 17,
+        "psychiatrist_name": "Dr. Preeti Gupta"
+    },
+    {
+        "name": "Anjali Das",
+        "address": "606 Valley St, Metropolis",
+        "email": "anjali.das@example.com",
+        "phone": "+92223334444",
+        "password": "StrongPassword8",
+        "image": "patient8.jpg",
+        "psychiatrist_id": 18,
+        "psychiatrist_name": "Dr. Vikram Yadav"
+    },
+    {
+        "name": "Karan Verma",
+        "address": "707 Ridge Ln, Downtown",
+        "email": "karan.verma@example.com",
+        "phone": "+96667778888",
+        "password": "MyPassword9",
+        "image": "patient9.jpg",
+        "psychiatrist_id": 19,
+        "psychiatrist_name": "Dr. Priya Verma"
+    },
+    {
+        "name": "Sneha Sharma",
+        "address": "808 Hill Blvd, Uptown",
+        "email": "sneha.sharma@example.com",
+        "phone": "+98889990000",
+        "password": "SecurePassword10",
+        "image": "patient10.jpg",
+        "psychiatrist_id": 20,
+        "psychiatrist_name": "Dr. Sandeep Joshi"
+    },
+    {
+        "name": "Aryan Kapoor",
+        "address": "909 Grove Dr, Villagetown",
+        "email": "aryan.kapoor@example.com",
+        "phone": "+911223344555",
+        "password": "StrongPassword11",
+        "image": "patient11.jpg",
+        "psychiatrist_id": 21,
+        "psychiatrist_name": "Dr. Aarav Gupta"
+    },
+    {
+        "name": "Simran Singh",
+        "address": "1010 Cherry St, Suburbia",
+        "email": "simran.singh@example.com",
+        "phone": "+918877665544",
+        "password": "MyPassword12",
+        "image": "patient12.jpg",
+        "psychiatrist_id": 22,
+        "psychiatrist_name": "Dr. Sanya Singh"
+    },
+    {
+        "name": "Arjun Gupta",
+        "address": "1111 Pinecone Cir, Hamletville",
+        "email": "arjun.gupta@example.com",
+        "phone": "+917766554433",
+        "password": "SecurePassword13",
+        "image": "patient13.jpg",
+        "psychiatrist_id": 23,
+        "psychiatrist_name": "Dr. Rohan Sharma"
+    },
+    {
+        "name": "Neha Yadav",
+        "address": "1212 Cedar Rd, Citytown",
+        "email": "neha.yadav@example.com",
+        "phone": "+915544332211",
+        "password": "StrongPassword14",
+        "image": "patient14.jpg",
+        "psychiatrist_id": 24,
+        "psychiatrist_name": "Dr. Neha Verma"
+    },
+    {
+        "name": "Aditya Patel",
+        "address": "1313 Elm Blvd, Countryside",
+        "email": "aditya.patel@example.com",
+        "phone": "+919988877766",
+        "password": "MyPassword15",
+        "image": "patient15.jpg",
+        "psychiatrist_id": 25,
+        "psychiatrist_name": "Dr. Arjun Patel"
+    },
+    {
+        "name": "Ishaan Verma",
+        "address": "1414 Birch Ln, Metropolis",
+        "email": "ishaan.verma@example.com",
+        "phone": "+944433322211",
+        "password": "SecurePassword16",
+        "image": "patient16.jpg",
+        "psychiatrist_id": 26,
+        "psychiatrist_name": "Dr. Ishita Yadav"
+    },
+    {
+        "name": "Vidya Kumar",
+        "address": "1515 Redwood Dr, Downtown",
+        "email": "vidya.kumar@example.com",
+        "phone": "+977766655544",
+        "password": "StrongPassword17",
+        "image": "patient17.jpg",
+        "psychiatrist_id": 27,
+        "psychiatrist_name": "Dr. Vivek Kumar"
+    },
+    {
+        "name": "Akshay Das",
+        "address": "1616 Cedar Cir, Uptown",
+        "email": "akshay.das@example.com",
+        "phone": "+9998887776",
+        "password": "MyPassword18",
+        "image": "patient18.jpg",
+        "psychiatrist_id": 28,
+        "psychiatrist_name": "Dr. Ananya Das"
+    },
+    {
+        "name": "Tanvi Malhotra",
+        "address": "1717 Pine Ln, Villagetown",
+        "email": "tanvi.malhotra@example.com",
+        "phone": "+922211122233",
+        "password": "SecurePassword19",
+        "image": "patient19.jpg",
+        "psychiatrist_id": 29,
+        "psychiatrist_name": "Dr. Karan Malhotra"
+    },
+    {
+        "name": "Rajat Sharma",
+        "address": "1818 Maple St, Suburbia",
+        "email": "rajat.sharma@example.com",
+        "phone": "+966655544433",
+        "password": "StrongPassword20",
+        "image": "patient20.jpg",
+        "psychiatrist_id": 30,
+        "psychiatrist_name": "Dr. Shreya Sharma"
+    }
+]
