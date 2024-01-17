@@ -12,6 +12,11 @@ Welcome to our RESTful API built with Node.js, Express.js, and MySQL! This proje
 
 - **Bcrypt:** For encrypting the password.
 
+## POSTMAN COLLECTION:
+```bash
+https://elements.getpostman.com/redirect?entityId=31406459-6ddf58fa-022d-46ff-984b-f7ce6e0d4dd0&entityType=collection
+```
+
 ## Getting Started
 
 To get started with the API, follow these steps:
